@@ -1,7 +1,0 @@
-version: "3"        # docker-compose.xml created by sanjay atal
-services:
-      app1:
-        container_name: compose-container
-        image: nginx
-        ports:
-             - "8080:80"
